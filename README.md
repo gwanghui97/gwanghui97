@@ -55,6 +55,6 @@
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
 </div><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwanghui97&theme=dark&layout=compact">&nbsp&nbsp<span></span>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwanghui97&theme=dark&layout=compact"><span></span>
 ![Gwanghui's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwanghui97&theme=dark&show_icons=true)
 </div>
