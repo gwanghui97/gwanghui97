@@ -24,6 +24,7 @@
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white">
         <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white">
         <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white">
+        <img src="https://img.shields.io/badge/Querydsl-2C8AB2?style=for-the-badge&logo=Querydsl&logoColor=white">
     </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
