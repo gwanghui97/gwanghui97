@@ -72,6 +72,7 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwanghui97&theme=dark&layout=compact">
     &nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api?username=gwanghui97&theme=dark&show_icons=true">
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=gwanghui97&theme=dark&show_icons=true"> -->
+    ![Gwanghui's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwanghui97&show_icons=true&theme=radical)
 </div>
 </div>
