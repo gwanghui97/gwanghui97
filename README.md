@@ -1,10 +1,3 @@
-<div align="left">
-
--------
-
-<br>
-</div><br>
-
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:lgh970409@gmail.com">
